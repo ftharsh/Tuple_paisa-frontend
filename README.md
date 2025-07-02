@@ -85,5 +85,5 @@ Tuple Paisa is a full-stack wallet application designed for seamless and secure 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/tuple-paisa.git
-cd tuple-paisa
+git clone https://github.com/ftharsh/Tuple_paisa-frontend.git
+cd tuplepaisa_frontend-main
