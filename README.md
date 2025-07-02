@@ -68,6 +68,11 @@ Tuple Paisa is a full-stack wallet application designed for seamless and secure 
 ![Screenshot from 2025-06-08 12-05-21](https://github.com/user-attachments/assets/5c8efce3-4f81-4078-8edc-ad8503cb40dc)
 ## ✅ Transaction Completion Dialog
 ![Screenshot from 2025-06-08 12-06-33](https://github.com/user-attachments/assets/26571a5f-2999-4acc-b0f1-c15d880f8ceb)
+## 🔧 Transaction Analytics Board
+![Screenshot from 2025-07-02 15-23-50](https://github.com/user-attachments/assets/94b2eaee-d645-42a7-9c21-7c3602461a9b)
+![Screenshot from 2025-07-02 15-23-54](https://github.com/user-attachments/assets/4540c73e-07a7-4199-8150-a1006976e5ab)
+## 📝 Receiver's Name AutoSuggest feature
+![Screenshot from 2025-07-02 15-23-36](https://github.com/user-attachments/assets/0ecd1c8a-b5fb-4b33-ab4d-772acb37f4a8)
 
 ## 📦 Setup Instructions
 
