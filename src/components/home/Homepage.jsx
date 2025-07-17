@@ -41,6 +41,9 @@ const Homepage = () => {
 
             <div className="text-center mt-40 mb-20">
               <h1 className="text-5xl font-extrabold tracking-wide space-y-1 sm:text-7xl">
+                <h6 className="text-[10px] font-extrabold text-black">
+                  Backend is in progress !!
+                </h6>
                 <span className="text-black">all that you </span>
                 <span className="text-white">deserve.</span>
                 <br />
