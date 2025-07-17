@@ -73,6 +73,45 @@ Tuple Paisa is a full-stack wallet application designed for seamless and secure 
 ![Screenshot from 2025-07-02 15-23-54](https://github.com/user-attachments/assets/4540c73e-07a7-4199-8150-a1006976e5ab)
 ## 📝 Receiver's Name AutoSuggest feature
 ![Screenshot from 2025-07-02 15-23-36](https://github.com/user-attachments/assets/0ecd1c8a-b5fb-4b33-ab4d-772acb37f4a8)
+### 🧪 Test Coverage : Jest
+
+| File/Directory                         | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line(s)             |
+|---------------------------------------|---------|----------|---------|---------|-------------------------------|
+| **All files**                         | 94.34   | 82.75    | 84.33   | 95.01   | -                             |
+| `src`                                 | 100     | 100      | 100     | 100     | -                             |
+| └── `App.jsx`                         | 100     | 100      | 100     | 100     | -                             |
+| `src/Constant`                        | 100     | 100      | 100     | 100     | -                             |
+| └── `theme.js`                        | 100     | 100      | 100     | 100     | -                             |
+| `src/components`                      | 97.29   | 91.66    | 88.88   | 97.22   | -                             |
+| ├── `Authpage.jsx`                    | 96.77   | 91.66    | 83.33   | 96.77   | Line 157                      |
+| └── `DashboardMain.jsx`              | 100     | 100      | 100     | 100     | -                             |
+| `src/components/dashboard`           | 93.07   | 81.17    | 82.5    | 94.21   | -                             |
+| ├── `DashBoardSidebar.jsx`           | 93.1    | 75.6     | 88.23   | 92.72   | Lines 87-90, 230              |
+| ├── `ErrorMessage.jsx`               | 100     | 100      | 100     | 100     | -                             |
+| ├── `ReportCard.jsx`                 | 100     | 100      | 100     | 100     | -                             |
+| ├── `TransactionView.jsx`           | 90.19   | 83.33    | 66.66   | 93.61   | Lines 161, 272–280            |
+| └── `TransitionEffect.jsx`           | 100     | 100      | 100     | 100     | -                             |
+| `src/components/dashboard/common`    | 100     | 100      | 100     | 100     | -                             |
+| ├── `Button.jsx`                     | 100     | 100      | 100     | 100     | -                             |
+| └── `Loader.jsx`                     | 100     | 100      | 100     | 100     | -                             |
+| `src/components/dashboard/guide`     | 100     | 100      | 100     | 100     | -                             |
+| └── `GuideAvatar.jsx`               | 100     | 100      | 100     | 100     | -                             |
+| `src/components/home`                | 88.31   | 79.16    | 72.22   | 89.18   | -                             |
+| ├── `Homepage.jsx`                   | 100     | 100      | 100     | 100     | -                             |
+| ├── `MorphingText.jsx`               | 87.93   | 79.16    | 72.72   | 89.09   | Lines 38, 53–54, 73–74, 78    |
+| └── `Pattern.jsx`                    | 85.71   | 100      | 60      | 85.71   | Lines 9, 21                   |
+| `src/components/utils`               | 100     | 78.12    | 100     | 100     | -                             |
+| ├── `authService.js`                 | 100     | 100      | 100     | 100     | -                             |
+| ├── `chartService.js`                | 100     | 75       | 100     | 100     | Line 19                       |
+| ├── `transactionService.js`         | 100     | 75       | 100     | 100     | Line 11                       |
+| └── `walletService.js`              | 100     | 80       | 100     | 100     | Lines 24–25, 51, 77           |
+
+** Test Suites:** 19 passed out of 19  
+** Tests:** 89 passed out of 89  
+** Time:** 3.744 seconds  
+** Snapshots:** 0
+
+
 
 ## 📦 Setup Instructions
 
