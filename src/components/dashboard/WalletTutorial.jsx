@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import Scene3D from "./scene/Scene3D.jsx";
 import Button from "./common/Button.jsx";
 import { useNavigate } from "react-router-dom";

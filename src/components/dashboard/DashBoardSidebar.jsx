@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { useNavigate, useLocation } from "react-router-dom";
 import Avatar1 from "../../media/images/avatar1.jpeg";
 import Avatar2 from "../../media/images/avatar2.jpeg";

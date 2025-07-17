@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { walletService } from "../utils/walletService.js";
 import { isAuthenticated } from "../utils/authService.js";
 import TransactionEffects from "./TransitionEffect.jsx";

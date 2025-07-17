@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from 'react';
-import { XCircle, X } from 'lucide-react';
+import { useEffect, useState } from "react";
+import { XCircle, X } from "lucide-react";
 
 const ErrorToast = ({ error }) => {
   const [isVisible, setIsVisible] = useState(true);
@@ -23,7 +23,9 @@ const ErrorToast = ({ error }) => {
         <div className="flex items-start gap-3">
           <XCircle className="h-6 w-6 text-red-500 flex-shrink-0 mt-0.5" />
           <div className="flex-1 min-w-0">
-            <div className="font-semibold text-gray-900 mb-1">Error Occurred</div>
+            <div className="font-semibold text-gray-900 mb-1">
+              Error Occurred
+            </div>
             <div className="text-gray-600 break-words">{error}</div>
           </div>
         </div>
